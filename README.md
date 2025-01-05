@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Len Yong Keat</h1>
 <h3 align="center">An IT person from Malaysia!</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lenyk0824&label=Profile%20views&color=0e75b6&style=flat" alt="lenyk0824" /> </p>
+
 <h3 align="left">About Me:</h3>
 <p align="left">
 I am passionate about technology and love solving complex problems. When I encounter a problem, I face it head on. This is my eternal spirit. Although I am not good at coding, I am very eager to learn no matter how difficult it is.
